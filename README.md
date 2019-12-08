@@ -10,3 +10,5 @@ The user has a set time to provide an answer.
 What level is possible to achieve is unknown :-), but equations reach a ridiculous complexity around level 12...
 
 Usage of streams is particularly helpful in Flutter, as this example confirms.
+
+![screenshot](https://github.com/swinje/gangetabell/blob/master/screenshot.png)
