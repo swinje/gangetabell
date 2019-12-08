@@ -11,4 +11,6 @@ What level is possible to achieve is unknown :-), but equations reach a ridiculo
 
 Usage of streams is particularly helpful in Flutter, as this example confirms.
 
-![screenshot](https://github.com/swinje/gangetabell/blob/master/screenshot.png){:height="480px" width="270px"}
+
+
+<img src="https://github.com/swinje/gangetabell/blob/master/screenshot.png" height="240" width="135">
